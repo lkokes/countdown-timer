@@ -4,4 +4,4 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./image.png)
+![image](https://user-images.githubusercontent.com/89606175/223574663-d5e8db71-2c96-4d4f-aeb0-fcff1be310c2.png)
