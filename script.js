@@ -19,4 +19,8 @@ var countDown = setInterval(function() {
   document.getElementById("minutes").innerHTML = minutes
   document.getElementById("seconds").innerHTML = seconds
 
+  if (days && hours && minutes && seconds === '00') {
+    clearInterval(countDown)
+  }
+
 }, 1000);
